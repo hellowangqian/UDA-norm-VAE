@@ -8,6 +8,8 @@ We address the Unsupervised Domain Adaptation (UDA) problem in image classificat
  author = {Wang, Q. and Meng, F. and Breckon, T.P.},\
  title = {Data Augmentation with norm-AE and Selective Pseudo-Labelling for Unsupervised Domain Adaptation},\
  journal = {Neural Networks},\
+ volume={161},
+ pages={614--625},
  year = {2023},\
  month = {February},\
  publisher = {Elsevier},\
